@@ -1,0 +1,56 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Streamlit
+
+.streamlit/
+
+# Artifacts
+
+artifacts/
+*.pkl
+
+# Logs
+
+*.log
+
+# Environment Variables
+
+.env
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+
+*.tmp
+*.temp
